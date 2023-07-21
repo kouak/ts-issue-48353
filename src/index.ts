@@ -7,8 +7,6 @@ import * as foo from './foo';
 
 export default foo.bar;
 
-
-
 /**
  * This seems fine.
  */

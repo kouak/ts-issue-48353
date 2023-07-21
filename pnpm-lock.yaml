@@ -6,13 +6,13 @@ settings:
 
 devDependencies:
   typescript:
-    specifier: ^5.1.3
-    version: 5.1.3
+    specifier: next
+    version: 5.2.0-dev.20230713
 
 packages:
 
-  /typescript@5.1.3:
-    resolution: {integrity: sha512-XH627E9vkeqhlZFQuL+UsyAXEnibT0kWR2FWONlr4sTjvxyJYnyefgrkyECLzM5NenmKzRAy2rR/OlYLA1HkZw==}
+  /typescript@5.2.0-dev.20230713:
+    resolution: {integrity: sha512-A/crla7nXo4d7TVRlV4CUzxW218b2WupUrIMnnGBV1o0SQnckrszm0CUMRAYeKAB9lFIo/B1Gx1cBdvNQYiD4A==}
     engines: {node: '>=14.17'}
     hasBin: true
     dev: true
